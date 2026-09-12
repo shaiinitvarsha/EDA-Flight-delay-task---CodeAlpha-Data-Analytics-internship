@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeAlpha Data Analytics Internship — Task: Exploratory Data Analysis (EDA)
 
 ## 📌 Overview
@@ -62,3 +63,6 @@ This prints the full EDA to the terminal and generates `EDA_report.md` and
 ## 🙋 About
 Submitted for the **CodeAlpha Data Analytics Internship**.
 [www.codealpha.tech](https://www.codealpha.tech)
+=======
+# EDA-Flight-delay-task---CodeAlpha-Data-Analytics-internship
+>>>>>>> 6f9fbe01e94c620add5f3f21f4fb9ea56b0f44eb
